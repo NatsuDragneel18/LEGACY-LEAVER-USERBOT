@@ -25,6 +25,6 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("⚡️ Userbot Legacy Active ⚡️")
+LOGS.info("🔥Natsu Dragneel Is Active🔥")
 
 bot.run_until_disconnected()
